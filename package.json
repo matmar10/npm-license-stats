@@ -1,0 +1,27 @@
+{
+  "name": "npm-license-stats",
+  "version": "0.0.1",
+  "description": "Summarize the list of open source licenses used in your project(s)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matmar10/npm-license-stats.git"
+  },
+  "keywords": [
+    "npm",
+    "license",
+    "stats"
+  ],
+  "author": "Matthew J. Martin <matthew.mar10@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matmar10/npm-license-stats/issues"
+  },
+  "homepage": "https://github.com/matmar10/npm-license-stats#readme",
+  "dependencies": {
+    "npm-license-crawler": "^0.2.1"
+  }
+}
