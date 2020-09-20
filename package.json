@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/matmar10/npm-license-stats#readme",
   "dependencies": {
-    "npm-license-crawler": "^0.2.1"
+    "npm-license-crawler": "^0.2.1",
+    "yargs": "^16.0.3"
   }
 }
